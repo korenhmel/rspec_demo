@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29aa828d-7248-4c04-a05c-e792d400118b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/car_spec.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/car.rb" afterPath="$PROJECT_DIR$/car.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hero_spec.rb" afterPath="$PROJECT_DIR$/hero_spec.rb" />
     </list>
     <ignored path="rspec_demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/car.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -333,9 +331,9 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="RSpec.Car: rspec_demo" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Car incrase the distance the car go: rspec_demo" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.Car increase the fuel in a tank: rspec_demo" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.car" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.car" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.Car incrase the distance the car go: rspec_demo" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.Car increase the fuel in a tank: rspec_demo" />
         <item index="4" class="java.lang.String" itemvalue="RSpec.Hero: rspec_demo" />
       </list>
     </recent_temporary>
@@ -346,6 +344,9 @@
       <configuration name="Car: rspec_demo" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Car__rspec_demo - 2016.09.19 at 19h 09m 34s.xml">
+      <configuration name="Car: rspec_demo" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Car__rspec_demo - 2016.09.19 at 19h 24m 25s.xml">
       <configuration name="Car: rspec_demo" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Car_incrase_the_distance_the_car_go__rspec_demo - 2016.09.19 at 18h 51m 08s.xml">
@@ -365,9 +366,6 @@
     </history-entry>
     <history-entry file="Car_increase_the_fuel_in_a_tank__rspec_demo - 2016.09.19 at 18h 49m 03s.xml">
       <configuration name="Car increase the fuel in a tank: rspec_demo" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Hero_displayes_full_hero_info__rspec_demo - 2016.09.19 at 13h 56m 54s.xml">
-      <configuration name="Hero displayes full hero info: rspec_demo" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Hero_displayes_full_hero_info__rspec_demo - 2016.09.19 at 14h 06m 04s.xml">
       <configuration name="Hero displayes full hero info: rspec_demo" configurationId="RSpecRunConfigurationType" />
@@ -478,7 +476,7 @@
     <entry file="file://$PROJECT_DIR$/car.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>

@@ -10,8 +10,7 @@ class Car
   end
 
   def range
-   0
- # distance = @fuel * MILES_PER_GALLON
+  @fuel * MILES_PER_GALLON
   end
 end
 
