@@ -2,6 +2,7 @@ require './hero'
 
 describe Hero do
   before do
+
     @hero = Hero.new('mike')
   end
 
